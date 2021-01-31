@@ -1,7 +1,7 @@
-* Discrete Mathematics and Its Applications - Kenneth H. Rosen 3.1k
+* Discrete Mathematics and Its Applications - Kenneth H. Rosen 
 
-* Elements of Discrete mathematics - C.L Liu 582
+* Elements of Discrete mathematics - C.L Liu 
 
-* Discrete Mathematics (Schaum’s Outline) - Seymour Lipschutz and Marc Laras Lipson 291
+* Discrete Mathematics (Schaum’s Outline) - Seymour Lipschutz and Marc Laras Lipson 
 
-* Discrete Mathematics with Applications - Susanna S. Epp 283
+* Discrete Mathematics with Applications - Susanna S. Epp 
