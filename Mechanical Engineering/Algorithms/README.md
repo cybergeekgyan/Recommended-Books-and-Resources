@@ -1,5 +1,5 @@
-* Data Structures Using C and C++ - Tenenbaum
+* Introduction to Algorithms - Thomas H. Cormen
 
-* Data Structures - Schaum’s Series
+* The Algorithm Design Manual - Steven S Skiena
 
-* Data Structures Using C - Reema Thareja
+* Data Structures and Algorithms Made Easy - Narasimha Karumanchi
